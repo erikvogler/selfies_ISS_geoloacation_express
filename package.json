@@ -1,0 +1,19 @@
+{
+  "name": "data_selfie",
+  "version": "1.0.0",
+  "description": "joeys data selfie project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "data",
+    "selfie"
+  ],
+  "author": "e.vogler",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
